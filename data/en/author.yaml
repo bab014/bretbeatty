@@ -1,0 +1,18 @@
+# Personal Info
+name: "Bret Beatty"
+nickname: "Bret"
+# Personal Greeting
+greeting: "Hi, I'm"
+image: "images/av.JPG"
+
+contactInfo:
+  email: "bbeatty14@gmail.com"
+  phone: "(562)833-3154"
+
+
+summary:
+  - I'm a developer
+  - I love to build things
+  - I love to work with teams
+  - I love data science
+

@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: American Family Insurance.
+    url: "https://www.amfam.com"
+    location: Madison, WI
+    # company overview
+    overview: American Family is an insurance company which specializes in personal lines of insurance coverage.
+  positions:
+  - designation: Business Analytics Analyst III
+    start: Apr 2017
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+- company:
+    name: Service Source
+    url: "https://www.servicesource.com/"
+    location: Denver, CO
+    overview: ServiceSource provides outsourced inside sales, customer success, renewals management, and channel management solutions for enterprises worldwide
+  positions:
+  - designation: Business Intelligence Analyst
+    start: Jul 2013
+    end: Apr 2017
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
