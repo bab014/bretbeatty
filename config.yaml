@@ -27,6 +27,7 @@ enableEmoji: true
 params:
     # gitRepo: https://github.com/bab014/bretbeatty
     # gitBranch: master
+    background: "images/default-background.jpg"
     enableBlogPost: true
     enableTOC: true
     newsletter:
