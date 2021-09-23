@@ -46,3 +46,9 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Problem Solving
+  percentage: 95
+  color: green
+- name: Adaptability
+  percentage: 90
+  color: orange

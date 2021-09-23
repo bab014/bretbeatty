@@ -23,9 +23,10 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Data Lead on a cloud based application targeting prespective customers
+    - Subject Matter Expert on American Family's quote data
+    - Built and maintain all quote reporting in the Sales division
+    - Maintain and organize the areas documentation website
 
 - company:
     name: Service Source
@@ -37,6 +38,6 @@ experiences:
     start: Jul 2013
     end: Apr 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Developed algorithm that would set sales representatives quotas for the upcoming quarter
+    - Created reporting tool using Tableau so leadership could see progress of the sales teams
+    - Worked with companies data to deliver actionable insights for senior leadership

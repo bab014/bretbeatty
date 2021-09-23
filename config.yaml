@@ -3,6 +3,9 @@ languageCode: en-us
 title: "Bret Beatty"
 theme: "toha"
 
+minify:
+    disableHTML: true
+
 languages:
     en:
         languageName: English
@@ -22,10 +25,10 @@ outputs:
 enableEmoji: true
 
 params:
-    gitRepo: https://github.com/bab014/bretbeatty
-    gitBranch: master
+    # gitRepo: https://github.com/bab014/bretbeatty
+    # gitBranch: master
     enableBlogPost: true
-    enableTOC: false
+    enableTOC: true
     newsletter:
         enable: false
     features:

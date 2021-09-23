@@ -11,16 +11,32 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  # logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Tableau
+  logo: "/images/sections/skills/tableau.jpg"
+  summary: "Able to create and deploy Tableau dashboards both locally and to the cloud"
+  url: "https://www.tableau.com/"
 
-- name: Go Development
-  # logo: "/images/sections/skills/go.png"
+- name: PostgreSQL
+  logo: "/images/sections/skills/pgsql.png"
+  summary: "Consistently work with Postgres databases in both the setup and querying of the data."
+  url: "https://www.postgresql.org/"
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  url: "https://www.python.org/"
+
+- name: Airflow
+  logo: "/images/sections/skills/airflow.png"
+  summary: "Able to create and maintain Apache Airflow environment to manage team DAGs."
+  url: "https://airflow.apache.org/"
 
 - name: Cloud Computing
-  # logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  logo: "/images/sections/skills/aws-logo.png"
+  summary: "Work with AWS to develop and deploy enterprise applications."
+  url: "https://aws.amazon.com/"
+
+- name: Jupyter
+  logo: "/images/sections/skills/jupyter.png"
+  summary: "Work within the Jupyter framework to develop actionable insights for the business."
+  url: "https://jupyter.org/"
