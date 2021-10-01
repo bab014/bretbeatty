@@ -13,6 +13,7 @@ company:
   name: "American Family Insurance"
   url: "https://www.amfam.com/"
 
+missionStatement: "I want to utilize my energy and passion for building things to help a company grow."
 # resume:
 
 summary: "I am a hard working developer and data analyst with a passion for learning. I've developed and deployed a number of data reporting tools using [Dash](https://plotly.com/dash/) and [Tableau](https://www.tableau.com/)"
